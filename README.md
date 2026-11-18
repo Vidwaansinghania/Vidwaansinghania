@@ -1,6 +1,6 @@
 # Vidwaan Singhania
 
-I'm a BCom student at UVic Gustavson in Victoria, BC, graduating in 2027. I build AI agents and automation for finance work.
+I'm a BCom student at UVic Gustavson in Victoria, BC, graduating in 2027. I build AI agents and automation tools for business needs.
 
 | Project | What it is |
 |---|---|
